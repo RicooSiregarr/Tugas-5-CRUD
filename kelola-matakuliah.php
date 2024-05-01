@@ -37,7 +37,7 @@
   <nav class="navbar bg-body-tertiary mb-5 shadow fixed-top">
     <div class="container">
       <a class="navbar-brand" href="#" style="font-size : 1.1em;">
-      <img src="img/garena.png" alt="logo" style="width: 2.3em; margin-right: 0.5em;">
+      <img src="img/logo kfc.png" alt="logo" style="width: 2.3em; margin-right: 0.5em;">
           <strong>Database Kuliah</strong>
         </a>
     </div>
